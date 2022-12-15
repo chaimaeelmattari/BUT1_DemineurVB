@@ -1,0 +1,12 @@
+Z:\cours\SEMESTRE 2\Saé1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+Z:\cours\SEMESTRE 2\Saé1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+Z:\cours\SEMESTRE 2\Saé1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+Z:\cours\SEMESTRE 2\Saé1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+Z:\cours\SEMESTRE 2\Saé1\WindowsApp1\WindowsApp1\obj\Debug\ExempleModule.vbproj.AssemblyReference.cache
+Z:\cours\SEMESTRE 2\Saé1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.FormSaisie.resources
+Z:\cours\SEMESTRE 2\Saé1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+Z:\cours\SEMESTRE 2\Saé1\WindowsApp1\WindowsApp1\obj\Debug\ExempleModule.vbproj.GenerateResource.cache
+Z:\cours\SEMESTRE 2\Saé1\WindowsApp1\WindowsApp1\obj\Debug\ExempleModule.vbproj.CoreCompileInputs.cache
+Z:\cours\SEMESTRE 2\Saé1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+Z:\cours\SEMESTRE 2\Saé1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+Z:\cours\SEMESTRE 2\Saé1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
