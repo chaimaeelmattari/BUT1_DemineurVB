@@ -1,0 +1,43 @@
+Z:\SEMESTRE 2\Saé1\Saé1\bin\Debug\Saé1.exe.config
+Z:\SEMESTRE 2\Saé1\Saé1\bin\Debug\Saé1.exe
+Z:\SEMESTRE 2\Saé1\Saé1\bin\Debug\Saé1.pdb
+Z:\SEMESTRE 2\Saé1\Saé1\bin\Debug\Saé1.xml
+Z:\SEMESTRE 2\Saé1\Saé1\obj\Debug\Saé1.FormAccueil.resources
+Z:\SEMESTRE 2\Saé1\Saé1\obj\Debug\Saé1.Resources.resources
+Z:\SEMESTRE 2\Saé1\Saé1\obj\Debug\Saé1.vbproj.GenerateResource.cache
+Z:\SEMESTRE 2\Saé1\Saé1\obj\Debug\Saé1.vbproj.CoreCompileInputs.cache
+Z:\SEMESTRE 2\Saé1\Saé1\obj\Debug\Saé1.exe
+Z:\SEMESTRE 2\Saé1\Saé1\obj\Debug\Saé1.xml
+Z:\SEMESTRE 2\Saé1\Saé1\obj\Debug\Saé1.pdb
+Z:\SEMESTRE 2\Saé1\Saé1\obj\Debug\Saé1.formPartie.resources
+Z:\SEMESTRE 2\Saé1\Saé1\obj\Debug\Saé1.formScores.resources
+Z:\SEMESTRE 2\Saé1\Saé1\obj\Debug\Saé1.vbproj.AssemblyReference.cache
+Z:\cours\SEMESTRE 2\Saé1\Saé1\bin\Debug\Saé1.exe.config
+Z:\cours\SEMESTRE 2\Saé1\Saé1\bin\Debug\Saé1.exe
+Z:\cours\SEMESTRE 2\Saé1\Saé1\bin\Debug\Saé1.pdb
+Z:\cours\SEMESTRE 2\Saé1\Saé1\bin\Debug\Saé1.xml
+Z:\cours\SEMESTRE 2\Saé1\Saé1\obj\Debug\Saé1.vbproj.AssemblyReference.cache
+Z:\cours\SEMESTRE 2\Saé1\Saé1\obj\Debug\Saé1.formPartie.resources
+Z:\cours\SEMESTRE 2\Saé1\Saé1\obj\Debug\Saé1.formScores.resources
+Z:\cours\SEMESTRE 2\Saé1\Saé1\obj\Debug\Saé1.FormAccueil.resources
+Z:\cours\SEMESTRE 2\Saé1\Saé1\obj\Debug\Saé1.Resources.resources
+Z:\cours\SEMESTRE 2\Saé1\Saé1\obj\Debug\Saé1.vbproj.GenerateResource.cache
+Z:\cours\SEMESTRE 2\Saé1\Saé1\obj\Debug\Saé1.vbproj.CoreCompileInputs.cache
+Z:\cours\SEMESTRE 2\Saé1\Saé1\obj\Debug\Saé1.exe
+Z:\cours\SEMESTRE 2\Saé1\Saé1\obj\Debug\Saé1.xml
+Z:\cours\SEMESTRE 2\Saé1\Saé1\obj\Debug\Saé1.pdb
+C:\Users\portable\Documents\chaimae a supprimer\Saé1\Saé1\bin\Debug\Saé1.exe.config
+C:\Users\portable\Documents\chaimae a supprimer\Saé1\Saé1\bin\Debug\Saé1.exe
+C:\Users\portable\Documents\chaimae a supprimer\Saé1\Saé1\bin\Debug\Saé1.pdb
+C:\Users\portable\Documents\chaimae a supprimer\Saé1\Saé1\bin\Debug\Saé1.xml
+C:\Users\portable\Documents\chaimae a supprimer\Saé1\Saé1\obj\Debug\Saé1.vbproj.AssemblyReference.cache
+C:\Users\portable\Documents\chaimae a supprimer\Saé1\Saé1\obj\Debug\Saé1.formPartie.resources
+C:\Users\portable\Documents\chaimae a supprimer\Saé1\Saé1\obj\Debug\Saé1.formScores.resources
+C:\Users\portable\Documents\chaimae a supprimer\Saé1\Saé1\obj\Debug\Saé1.FormAccueil.resources
+C:\Users\portable\Documents\chaimae a supprimer\Saé1\Saé1\obj\Debug\Saé1.Resources.resources
+C:\Users\portable\Documents\chaimae a supprimer\Saé1\Saé1\obj\Debug\Saé1.vbproj.GenerateResource.cache
+C:\Users\portable\Documents\chaimae a supprimer\Saé1\Saé1\obj\Debug\Saé1.vbproj.CoreCompileInputs.cache
+C:\Users\portable\Documents\chaimae a supprimer\Saé1\Saé1\obj\Debug\Saé1.exe
+C:\Users\portable\Documents\chaimae a supprimer\Saé1\Saé1\obj\Debug\Saé1.xml
+C:\Users\portable\Documents\chaimae a supprimer\Saé1\Saé1\obj\Debug\Saé1.pdb
+C:\Users\portable\Documents\chaimae a supprimer\Saé1\Saé1\obj\Debug\Saé1.formdonneesj.resources
